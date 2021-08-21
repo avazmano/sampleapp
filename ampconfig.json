@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.9.0",
+  "appInfo": {
+    "name": "Sample node app",
+    "description": "Sample node application for e-commerce",
+    "version": "9nom9ikc",
+    "id": "cksm9niv214055741bs63u26gkkn",
+    "url": "https://app.amplication.com/cksm9niv214055741bs63u26gkkn",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cksm9niv214055741bs63u26gkkn"
+    }
+  }
+}
